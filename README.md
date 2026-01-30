@@ -27,7 +27,7 @@ Currently leading engineering at **Boomer Roomers** — took the platform from M
 ---
 
 <p align="center">
-  <a href="https://ashwinrao.dev"><strong>ashwinrao.dev</strong></a> ·
+  <a href="https://ashwin-portfolio-gray.vercel.app"><strong>Portfolio</strong></a> ·
   <a href="https://linkedin.com/in/ashwin-rao19">LinkedIn</a> ·
   <a href="mailto:ashwin.rao19@gmail.com">Email</a>
 </p>
